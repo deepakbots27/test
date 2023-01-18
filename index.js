@@ -1,4 +1,4 @@
-require("./config.js")
+require("./settings.js")
 const { default: DeepakConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 const { state, saveState } = useSingleFileAuthState(`./${sessionName}.json`)
 const pino = require('pino')
@@ -60,7 +60,7 @@ if (mek.key && mek.key.remoteJid === 'status@broadcast') return
 if (!Deepak.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
 if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
 m = smsg(Deepak, mek, store)
-require("./Zenitsu")(Deepak, m, chatUpdate, store)
+require("./Zenitsu2")(Deepak, m, chatUpdate, store)
 } catch (err) {
 console.log(err)
 }
@@ -169,8 +169,6 @@ Deepak.sendMessage(anu.id, buttonMessage)
                 	let WAuserName = num
                     Deepaktext = `
 Okay Bye 👋, @${WAuserName.split("@")[0]},
-
-I hope you will come back soon, but You will be missed!
 `
 
     let buttonMessage = {
