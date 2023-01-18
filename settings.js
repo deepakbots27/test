@@ -22,7 +22,6 @@ global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //u
 global.sessionName = "session"
 
 // Prefix //
-// If you want to change the prefix, change it and also change all switch's button id from Zenitsu.js  otherwise buttons will not work //
 global.prefa = ['.'] 
 
 
