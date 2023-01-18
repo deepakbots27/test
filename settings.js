@@ -97,10 +97,10 @@ global.limitawal = {
 
 
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz: 'https://zenzapi.xyz',
 }
 global.APIKeys = {
-	'https://zenzapis.xyz': '5d1197db351b',
+	'https://zenzapis.xyz': '805a6c3fa9',
 }
 
 
