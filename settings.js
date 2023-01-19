@@ -26,8 +26,8 @@ global.prefa = ['.']
 
 
 global.location = "Darjeeling, India"
-global.reactmoji = "❤️"
-global.themeemoji = "💖"
+global.reactmoji = "🐕"
+global.themeemoji = "🦄"
 global.vidmenu = { url: 'https://i.ibb.co/vXnjzpr/cheemspic.jpg' }
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.lolhuman = "Deepak"
@@ -67,7 +67,7 @@ global.mess = {
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Okey ?!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: ' Ruko Zara...',
+    waiting: ' Wait Crow...',
     nolink: 'Please provide me *link*, Uff!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!, Haha',
