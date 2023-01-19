@@ -2,7 +2,7 @@
  "name": "Zenitsu-Bot",
  "description": "Multi Device Whatsapp Bot By Deepak",
  "version": "3.0.0",
- "main": "index.js",
+ "main": "Nandita.js",
  "type": "commonjs",
  "scripts": {
   "start": "node Nandita.js"
