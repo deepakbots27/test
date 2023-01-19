@@ -1,3 +1,4 @@
+//Zenitsu-Bot2 
 require("./settings.js")
 const { default: DeepakConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 const { state, saveState } = useSingleFileAuthState(`./${sessionName}.json`)
