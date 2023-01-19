@@ -80,7 +80,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 git clone https://github.com/DGDEEPAK/Zenitsu-Bot2.git
 cd Zenitsu-Bot2
 
-npm start
+node Nandita.js
 ```
 ## `For Termux/Ssh/Ubuntu`
 ```bash
