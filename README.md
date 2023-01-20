@@ -22,7 +22,7 @@ Zenitsu-Bot-V2 Multi Device is a automated whatsapp bot developed by <a href="ht
 <a href="https://github.com/DGDEEPAK/CheemsBo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGDEEPAK/Zenitsu-Bot2?color=red&style=flat-square"></a>
 <a href="https://github.com/DGDEEPAK/Zenitsu-Bot2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGDEEPAK/Zenitsu-Bot2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/DGDEEPAK/Zenitsu-Bot2"><img title="Open Source" src="https://img.shields.io/badge/Author-Deepak.-red?v=103"></a>
-<a href="https://github.com/DGDEEPAK/Zenitsu-Bot2/"><img title="Size" src="https://img.shields.io/github/repo-size/DGDEEPAK/test?style=flat-square&color=green"></a>
+<a href="https://github.com/DGDEEPAK/Zenitsu-Bot2/"><img title="Size" src="https://img.shields.io/github/repo-size/deepakbots27/test?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGDEEPAK%2FZenitsu-Bot2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/DGDEEPAK/Zenitsu-Bot2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
